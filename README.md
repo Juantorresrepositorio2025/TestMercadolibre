@@ -1,2 +1,0 @@
-# TestMercadolibre
-Test para GlobalHitss
