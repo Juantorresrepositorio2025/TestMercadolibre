@@ -19,4 +19,3 @@ pip install -r requirements.txt
 pytest --html=report.html --self-contained-html
 ```
 
-Las capturas de pantalla se guardarán en la carpeta `screenshots/`.
