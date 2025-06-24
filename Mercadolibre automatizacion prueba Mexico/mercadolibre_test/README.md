@@ -1,6 +1,6 @@
 # Automatización de búsqueda en MercadoLibre
 
-Este proyecto automatiza una búsqueda en MercadoLibre México para encontrar los primeros 5 resultados de "PlayStation 5", filtrando por condición y ubicación, y ordenando por precio.
+Este proyecto es una  automatizacion de  una búsqueda en MercadoLibre de Mexico para encontrar los  5 primeros  resultados de la "PlayStation 5", filtrando por condicion y ubicacion, y ordenando por precio.
 
 ## Requisitos
 
